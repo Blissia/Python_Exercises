@@ -32,4 +32,4 @@ The analysis of the election data show that:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% (272,892) of the total number of votes.
 - The county with the largest turnout was: 
-  - Denver county, with a voter turnout of 82.8% (306,055) of the total number of votes.
+  - Denver county, which cast 82.8% (306,055) of the total number of votes.
